@@ -1,5 +1,3 @@
-https://wernancheta.wordpress.com/2012/07/09/intro-localstorage-storejs/
-https://www.tuluzz.com/store-js-tutorial-a-javascript-storage-library/
 How does it work?
 ------------------
 store.js uses localStorage when available, and falls back on the userData behavior in IE6 and IE7. No flash to slow down your page load. No cookies to fatten your network requests.
@@ -168,4 +166,6 @@ setTimeout(function() { console.log(storeWithExpiration.get('foo')) }, 1500) // 
   [JSON2.js]: https://raw.githubusercontent.com/douglascrockford/JSON-js/master/json2.js
   [store.min.js]: https://raw.github.com/marcuswestin/store.js/master/store.min.js
   [store+json2.min.js]: https://raw.github.com/marcuswestin/store.js/master/store+json2.min.js
+  https://wernancheta.wordpress.com/2012/07/09/intro-localstorage-storejs/
+https://www.tuluzz.com/store-js-tutorial-a-javascript-storage-library/
  
