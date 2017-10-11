@@ -1,3 +1,5 @@
+https://wernancheta.wordpress.com/2012/07/09/intro-localstorage-storejs/
+https://www.tuluzz.com/store-js-tutorial-a-javascript-storage-library/
 How does it work?
 ------------------
 store.js uses localStorage when available, and falls back on the userData behavior in IE6 and IE7. No flash to slow down your page load. No cookies to fatten your network requests.
