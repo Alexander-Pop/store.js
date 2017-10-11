@@ -166,6 +166,8 @@ setTimeout(function() { console.log(storeWithExpiration.get('foo')) }, 1500) // 
   [JSON2.js]: https://raw.githubusercontent.com/douglascrockford/JSON-js/master/json2.js
   [store.min.js]: https://raw.github.com/marcuswestin/store.js/master/store.min.js
   [store+json2.min.js]: https://raw.github.com/marcuswestin/store.js/master/store+json2.min.js
+  
   https://wernancheta.wordpress.com/2012/07/09/intro-localstorage-storejs/
+  
 https://www.tuluzz.com/store-js-tutorial-a-javascript-storage-library/
  
